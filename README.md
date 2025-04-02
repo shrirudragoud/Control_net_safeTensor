@@ -1,4 +1,4 @@
-# FashQuick
+# Control net for Ecommerce
 
 An AI-powered fashion virtual try-on application that uses SAM2 for clothing segmentation and Stable Diffusion for generating fashion models.
 
